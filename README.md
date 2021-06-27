@@ -17,3 +17,26 @@ Here are some ideas to get you started:
 
 <h1>Rodrigo Andrés Valle Morales</h1>
 <p>Programador en proceso ⚡ </p>
+<span></span>
+<p>Buscando la manera de ayudar a todo aquel que lo necesite.</p>
+<p>Actualmente conociendo/aprendiendo:</p>
+<li>
+    <ul>Inglés 🤓</ul>
+    <ul>PHP 😎</ul>
+    <ul>C++😋</ul>
+    <ul>ReactJs😋</ul>
+    <ul>Python</ul>
+    <ul>Java</ul>
+    <ul>Kotlin</ul>
+    <ul>Android developer 😎</ul>
+    <ul>C#😋</ul>
+    <ul>Excel 😎</ul>
+    <ul>SQL/Mysql/Posrgresql 🤓</ul>
+    <ul>Machine Learning (fundamentos) 🤓</ul>
+    
+</li>
+
+<p>Me gustaría algún día hacer una aplicación con IA capaz de ayudar a mi país en mayor medida.</p>
+<p>Algunos hobbies que tengo son: hacer ejercicio, ver nuevos cursos de <a href="Udemy.com">Udemy</a>,</p>
+<p>escuchar nueva música, jugar videojuegos, siendo mi favorito Mother 3 💪👀</p>
+
