@@ -20,23 +20,23 @@ Here are some ideas to get you started:
 <span></span>
 <p>Buscando la manera de ayudar a todo aquel que lo necesite.</p>
 <p>Actualmente conociendo/aprendiendo:</p>
-<li>
-    <ul>Inglés 🤓</ul>
-    <ul>PHP 😎</ul>
-    <ul>C++😋</ul>
-    <ul>ReactJs😋</ul>
-    <ul>Python</ul>
-    <ul>Java</ul>
-    <ul>Kotlin</ul>
-    <ul>Android developer 😎</ul>
-    <ul>C#😋</ul>
-    <ul>Excel 😎</ul>
-    <ul>SQL/Mysql/Posrgresql 🤓</ul>
-    <ul>Machine Learning (fundamentos) 🤓</ul>
+<ul>
+    <li>Inglés 🤓</li>
+    <li>PHP 😎</li>
+    <li>C++😋</li>
+    <li>ReactJs😋</li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>Kotlin</li>
+    <li>Android developer 😎</li>
+    <li>C#😋</li>
+    <li>Excel 😎</li>
+    <li>SQL/Mysql/Posrgresql 🤓</li>
+    <li>Machine Learning (fundamentos) 🤓</li>
     
-</li>
+</ul>
 
 <p>Me gustaría algún día hacer una aplicación con IA capaz de ayudar a mi país en mayor medida.</p>
-<p>Algunos hobbies que tengo son: hacer ejercicio, ver nuevos cursos de <a href="Udemy.com">Udemy</a>,</p>
+<p>Algunos hobbies que tengo son: hacer ejercicio, ver nuevos cursos de <a href="https://www.udemy.com">Udemy</a>,</p>
 <p>escuchar nueva música, jugar videojuegos, siendo mi favorito Mother 3 💪👀</p>
 
