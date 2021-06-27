@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Valle120899/Valle120899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Rodrigo Andrés Valle Morales</h1>
+<h1>Hi there 👋 soy Rodrigo Andrés Valle Morales😎</h1>
+<span>
+<h3>CV 😁 <a href="https://www.canva.com/design/DAETXVLPm0A/wCZU2aAj_jvONqAB5z-dAw/view?utm_content=DAETXVLPm0A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"> Rodrigo Valle</a></h3>
+<span>
 <p>Programador en proceso ⚡ </p>
 <span></span>
 <p>Buscando la manera de ayudar a todo aquel que lo necesite.</p>
